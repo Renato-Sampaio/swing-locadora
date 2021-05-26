@@ -1,0 +1,3 @@
+1;A CABANA;15.0;true;true;12.0;
+1;A CABANA;15.0;true;false;12.0;
+5;A CABANA;15.0;true;true;12.0;
